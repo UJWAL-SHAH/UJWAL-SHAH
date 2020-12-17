@@ -5,3 +5,6 @@
 - ⚡ Fun fact: ... I ain't too scared of errors.😂
 
 [!UJWAL'S github stats](https://github-readme-stats.vercel.app/api?username=UJWAL-SHAH)
+
+![Ujwal's github stats](https://github-readme-stats.vercel.app/api?username=UJWAL-SHAH&show_icons=true&theme=radical)
+
