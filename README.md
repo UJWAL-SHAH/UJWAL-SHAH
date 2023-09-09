@@ -36,8 +36,6 @@ Welcome to the mystical world of data analysis, where I turn raw numbers into pu
 
 🎤 **Presenter Par Excellence**: Give me a stage, and I'll make data dance like nobody's watching. 💃
 
-💬 **Communicator Supreme**: I translate data jargon into plain English, so even your grandma can understand.
-
 📜 **Data Storyteller**: I spin tales from datasets, making numbers come alive and tell their own stories.
 
 ## What You'll Find Here
@@ -54,13 +52,9 @@ Welcome to the mystical world of data analysis, where I turn raw numbers into pu
 
 🌟 My data visualizations are so mesmerizing that I once hypnotized a colleague into giving me their lunch.
 
-🐱 My cat thinks I'm a wizard, but that might be because I make Excel spreadsheets disappear when they're due.
-
 ## Let's Connect
 
-💬 Want to chat about data, analytics, or just share your favorite cat memes? Drop me a message anytime. I promise to reply in at least 0s or 1s.
-
-🌐 You can also find me lurking in the darkest corners of Stack Overflow, dispensing wisdom and collecting imaginary internet points.
+💬 Want to chat about data, analytics, or just share your favorite data memes? Drop me a message anytime. I promise to reply in at least 0s or 1s.
 
 🌐 **Check out my fun and informative blogs at [Fun Learning with Ujwal](https://fun-learning-with-ujwal.blogspot.com/)**, where I break down complex topics in a humorous and approachable way.
 
