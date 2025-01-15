@@ -20,6 +20,9 @@ Welcome to the mystical world of data analysis, where I turn raw numbers into pu
 
 📊 Visualizations that are so aesthetically pleasing, even your grandma would frame them on her wall.
 
+💪 But wait, there's more! I've harnessed the power of AWS AI technologies, including AWS SageMaker and Bedrock Studio, to craft AI solutions so robust, they could bench press a server rack. 🤖
+
+
 ## My Toolbox 🧰
 
 🔮 Magic wand (for advanced data transformations).
